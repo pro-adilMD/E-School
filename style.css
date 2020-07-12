@@ -1,0 +1,183 @@
+body {
+    margin: 0;
+}
+
+.container-banner {
+    height: 460px;
+    background-color: #f0fff0;
+}
+
+#carouselExampleControls {
+    margin-top: 60px;
+}
+
+
+.images {
+    width: 100px;
+}
+
+
+.span-color {
+    color: rgb(11, 199, 127);
+    font-family: 'Muli', sans-serif;
+}
+
+
+
+.p-color {
+    color: rgba(255, 0, 0, 0.74);
+}
+
+
+
+.buy-now-button {
+    background-color: rgb(11, 199, 127);
+    color: #fff;
+    border: none;
+    border-radius: 20px;
+    padding: 9px 25px;
+    cursor: wait;
+    padding: 9px 35px;
+}
+
+.images2 {
+    width: 500px;
+}
+
+
+.link-sp {
+    color: black;
+}
+
+
+#sing {
+    background-color: rgb(11, 199, 127);
+    text-align: center;
+    border-radius: 20px;
+    color: white;
+    padding: 9px 30px;
+}
+
+/*
+ deks card code start hear
+ */
+.container-row {
+    margin-top: 80px;
+}
+
+.card {
+    width: 275px;
+    height: 270px;
+
+
+}
+
+.red-bg {
+    background-color: rgba(199, 231, 229, 0.158);
+    border: none;
+    border-radius: 10px;
+}
+
+.black-bg {
+    background-color: white;
+    box-shadow: 8px 10px 25px rgba(131, 125, 125, 0.356);
+    border: none;
+    border-radius: 12px
+}
+
+.images-icon {
+    width: 70px;
+    height: 80px;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.card-title {
+    text-align: center;
+}
+
+.card-text {
+    text-align: center;
+}
+
+/*deks cord finish*/
+.container-center-crde h1 {
+    text-align: center;
+    color: rgba(51, 4, 78, 0.932);
+    margin: 80px;
+}
+
+.container-center-crde {
+    margin-top: 80px;
+    align-content: center;
+}
+
+.container-center-crde .card {
+    height: 488px;
+    width: 400px;
+    border-radius: 20px;
+    box-shadow: 8px 5px 25px rgba(131, 125, 125, 0.356);
+    background-color: white;
+}
+
+.img-card {
+    width: 330px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    align-items: center;
+
+}
+
+.container-center-crde .card-title {
+    color: rgba(51, 4, 78, 0.932);
+    font-size: 25px;
+    float: left;
+
+}
+
+.container-center-crde p {
+    font-size: 20px;
+    color: gray;
+    float: left;
+    font-family: 'Muli', sans-serif;
+}
+
+.container-center-crde button {
+    float: left;
+}
+
+
+.card-footer {
+    background-color: white;
+    border: none;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+.footer-img {
+    width: 25px;
+}
+
+.footer-img2 {
+    width: 25px;
+    margin-left: 50px;
+}
+
+.text-muted2 {
+    font-size: 30;
+    color: rgba(121, 119, 119, 0.767);
+}
+
+/* 4th container*/
+
+.container-text-img h1 {
+    text-align: center;
+    margin-top: 100px;
+}
